@@ -3,7 +3,7 @@ title: I want pass, thank you Professor
 description: Welcome to Ian Hell
 slug: hello-world
 date: 2025-03-02 00:00:00+0000
-image: cover.jpg
+image: IMG_20151124_151429.jpg
 categories:
     - Example Category
 tags:
