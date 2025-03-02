@@ -11,4 +11,4 @@ tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-I currently work in Megabank
+Cat slave and a lazy worker
