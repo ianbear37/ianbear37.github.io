@@ -1,7 +1,7 @@
 ---
-title: Markdown Syntax Guide
-date: 2023-09-07
-description: Sample article showcasing basic Markdown syntax and formatting for HTML elements.
+title: ** Map, Food, Smiles
+date: 2025-03-03
+description: 
 tags: 
     - markdown
     - css
