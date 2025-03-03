@@ -7,7 +7,7 @@
 I was raised in Kaohsiung, a city whose name is same as Takao in Japan.
 I graduate from National Chung Hsing University. In senior years, I exchanged to Hokkaido University, probably the most beautiful university in Japan.
 I currently work in Mega Bank as a normal bank teller.
-Now, I am an old tudent at National Yang Ming Chiao Tung University.
+Now, I am an old student at National Yang Ming Chiao Tung University.
 
 ![圖片](https://github.com/user-attachments/assets/170b2d91-c642-4730-b541-0848059502a8)
 ![圖片](https://github.com/user-attachments/assets/5a4b7b14-e3c2-484d-b9ec-788a102c04d0)
