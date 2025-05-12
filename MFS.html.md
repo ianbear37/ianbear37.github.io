@@ -24,5 +24,4 @@ I love Japanese food, especially curry soup in Japn.
 Watching Anime and maga are my favorite activities. Besides, I also like to search some good cosmetic products every year and theirs ingredients.
 Last, I am absolutely cat slave. 
 ![圖片](https://github.com/user-attachments/assets/eb0a3268-aa12-4b52-a972-5cb62e3ce226)
-![圖片](https://github.com/user-attachments/assets/da3fac69-b4d8-4d5e-bfc5-170fab20826d)
 ![line_19253759016768](https://github.com/user-attachments/assets/b9318093-53ec-427e-a2eb-2fdd7f47553b)
